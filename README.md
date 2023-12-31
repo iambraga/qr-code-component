@@ -6,14 +6,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot.jpg)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [https://iambraga.github.io/qr-code-component/](https://iambraga.github.io/qr-code-component/)
 
 ## Built with
 
-- Semantic HTML5 markup
-- CSS properties
+-   Semantic HTML5 markup
+-   CSS properties
 
 ## Author
 
-- Website - [Eduardo Braga](https://github.com/iambraga)
-- Frontend Mentor - [@iambraga](https://www.frontendmentor.io/profile/iambraga)
+-   Website - [Eduardo Braga](https://github.com/iambraga)
+-   Frontend Mentor - [@iambraga](https://www.frontendmentor.io/profile/iambraga)
